@@ -1,6 +1,21 @@
+# fastapi
+# uvicorn
+# pandas
+# matplotlib
+# seaborn
+# python-multipart
+
 fastapi
 uvicorn
 pandas
+numpy
 matplotlib
 seaborn
+wordcloud
+emoji-data-python
+regex
+nltk
+scikit-learn
 python-multipart
+Pillow
+python-dotenv
